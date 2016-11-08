@@ -1,0 +1,13 @@
+#banner {
+	height: 150px;
+	margin-top: 30px;
+	font-size: 35px;
+	background-color: #000;
+}
+ h1 {
+	color: #FFF;
+} 
+
+#trainSchedule {
+	margin-top: 20px;
+}
